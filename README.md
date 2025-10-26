@@ -10,6 +10,6 @@ The DVL fuses:
 •	Deterministic computation for proof-based accuracy
 •	Provenance tracking for auditability
 •	A policy of refusal for impossible statements
-This approach gives machines a human-like verification sense — they “check before believing.”
-<img width="468" height="278" alt="image" src="https://github.com/user-attachments/assets/665ce4a1-0b5f-47d1-a7b3-8fc37735ae83" />
+This approach gives machines a human-like verification sense — they “check before believing.
+
 
