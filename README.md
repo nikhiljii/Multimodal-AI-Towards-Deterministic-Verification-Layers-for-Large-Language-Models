@@ -1,4 +1,6 @@
 # Multimodal-AI-Towards-Deterministic-Verification-Layers-for-Large-Language-Models
+<img width="2546" height="1418" alt="image" src="https://github.com/user-attachments/assets/7419d525-561b-4f27-9a58-8fba7c9e7fa9" />
+
 This white paper introduces the Deterministic Verification Layer (DVL) — a symbolic, rule-based framework that brings verifiable reasoning to Large Language Models. While LLMs predict likely words, DVL computes, validates, and explains each claim before narration, enabling trustworthy multimodal AI.
 
 Large Language Models (LLMs) can now interpret and generate text, images, and code fluently — but their reasoning remains probabilistic, not proven.
